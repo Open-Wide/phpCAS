@@ -52,8 +52,7 @@
  * @link     https://wiki.jasig.org/display/CASC/phpCAS
  *
  */
-interface CAS_Exception
-{
+interface CAS_Exception {
 
 }
 ?>
